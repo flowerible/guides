@@ -16,11 +16,11 @@
 ---  
 <br/>
 
-<img align="left" src="http://getsileo.app/img/icon.png" width="37" height="37"/>
+<img align="left" src="https://github.com/flowerible/guides/blob/main/Theming/Other/Assets/Wifi.png" width="37" height="37"/>
 
 ## Airplane Mode
 
-<img align="left" src="http://getsileo.app/img/icon.png" width="37" height="37"/>
+<img align="left" src="https://github.com/flowerible/guides/blob/main/Theming/Other/Assets/Wifi.png" width="37" height="37"/>
 
 ## Wi-Fi
 
