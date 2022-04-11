@@ -162,6 +162,6 @@ Congrats you have your theme package! You can use this to upload to repo's / let
 This was really inspired from https://pinpal.github.io/theme-guide/ :3 
 
 There's more to theming than the homescreen icons, you should check out more if you're interested!
-- Coming soon 
+- [Fixing Clock App not theming](https://github.com/flowerible/guides/blob/main/Theming/Theming%20Clock.md)
 - Coming soon 
 - Coming soon 
