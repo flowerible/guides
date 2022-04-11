@@ -159,6 +159,8 @@ Congrats you have your theme package! You can use this to upload to repo's / let
 
 ## 5) Closing notes
 
+This was really inspired from https://pinpal.github.io/theme-guide/ :3 
+
 There's more to theming than the homescreen icons, you should check out more if you're interested!
 - Coming soon 
 - Coming soon 
